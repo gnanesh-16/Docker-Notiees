@@ -1,16 +1,21 @@
-# Docker-Notiees
-A Full Knowledge on Docker has Some Relevent Information it might helpful in Developmenttt
+---
+description: >-
+  A Complete Hands-on Docker Commands that actually Master Docker with this
+  essential cheat sheet! Whether you're experienced or new to containers, it's
+  your go-to for all Docker tasks.
+cover: .gitbook/assets/img1.png
+coverY: 0
+---
+
+# 🪬 Docker sheet
+
+## <mark style="color:purple;">`ABOUT`</mark>
+
+Docker commands are essential for managing Docker containers and images. With `docker run`, you can start a new container, whereas `docker ps` lists all running containers. To stop a container, use `docker stop`, followed by the container ID or name. For managing images, `docker images` displays all available images on your system, and `docker pull` downloads an image from Docker Hub. Understanding and utilizing these commands effectively can greatly enhance your Docker experience, allowing for efficient container management and deployment.
 
 
-===================================== CONTAINER: =====================================
-1. A way to package application with all the neccesary (Dependencies) and Configuration.
-2. Portable- easy to Carry Mean-(Share,artifcat and move this package to any other environment).
-3. Makes (Development) easeier and morover Deployment is easy and effiecent
-   
-   
 
-   ![image](https://github.com/gnanesh-16/Docker-Notiees/assets/98212179/5f414dc6-a716-41ec-993b-e5cb8f3ee708)
+### <mark style="color:yellow;">`COMMANDS`</mark>
 
-PROCESS OF DOCKER Goes..
+1.
 
-![image](https://github.com/gnanesh-16/Docker-Notiees/assets/98212179/b80ea792-0fbe-4670-a77c-779b9c6f86ec)
